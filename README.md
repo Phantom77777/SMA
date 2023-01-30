@@ -3,3 +3,9 @@ A detailed and oriented analysis of different PRICE HISTORIES OF BITCOIN V/S ALT
 
 # Meta-Data
 Data is sourced using the Investing.com data. Certain predetermined search queries are used, and the data of the resulting posts and discussions is stored in the dataset.
+
+# Dataset
+https://www.kaggle.com/datasets/sudalairajkumar/cryptocurrencypricehistory
+
+# Code
+[Colab](https://colab.research.google.com/drive/1AzcXalRR2RgCl05D6gfwQlAy1VNoKN69?usp=sharing)
